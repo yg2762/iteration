@@ -188,7 +188,6 @@ bind_rows(
   get_page_reviews (urls[4]),
   get_page_reviews (urls[5])
 )
-
 ```
 
 
